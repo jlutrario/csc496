@@ -6,4 +6,4 @@
 - A single test user
 ### Compute Node:
 - Authenticate against common LDAP server on Login node
-- Mount /home and /software from Login node
+- Mount /home and /opt from Login node
